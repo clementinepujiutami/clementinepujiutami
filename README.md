@@ -4,7 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:2d1b3d&height=220&section=header&text=clem%20design%20%26%20tech&fontSize=55&fontColor=f5f1ea&fontAlign=50&fontAlignY=40&desc=a%20small%20studio%20for%20intentional%20digital%20things&descSize=15&descAlign=50&descAlignY=65&descAlignColor=d4c5a9&animation=fadeIn" />
+# 🌿 clem design & tech
+
+*a small studio for intentional digital things*
+
+`✦ ─────────────────────────────────────────── ✦`
 
 </div>
 
@@ -291,6 +295,8 @@ if you're building something that needs to feel as good as it functions — say 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:1a1a2e,100:0a0a0a&height=120&section=footer&fontColor=f5f1ea" />
+`✦ ─────────────────────────────────────────── ✦`
+
+*built slowly, with care, in bali · © clem design & tech* 🌱
 
 </div>
