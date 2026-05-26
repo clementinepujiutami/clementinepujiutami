@@ -38,7 +38,7 @@ Curious about something specific? Just ask.
 
 ## GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clementinepujiutami&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=00000000)
+![GitHub streak](https://streak-stats.demolab.com?user=clementinepujiutami&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=e5e7eb&ring=0f766e&fire=0f766e&currStreakNum=111827&sideNums=111827&currStreakLabel=374151&sideLabels=374151&dates=9ca3af&background=00000000)
 
 ---
 
