@@ -13,6 +13,12 @@ Based in Indonesia — turning fuzzy ideas into digital things that actually wor
 
 ---
 
+## Toolkit ✦
+
+![Figma](https://skillicons.dev/icons?i=figma,notion,ts,js,react,nextjs,tailwind,nodejs,html,css,sanity,wordpress,vercel,gcp,git)
+
+---
+
 ## Things I've built ✦
 
 | Project | What it is | Built with |
