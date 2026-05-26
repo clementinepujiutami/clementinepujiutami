@@ -1,302 +1,63 @@
-<!-- ────────────────────────────────────────────────────────────── -->
-<!--    clementine puji utami · creative builder · bali, indonesia    -->
-<!-- ────────────────────────────────────────────────────────────── -->
-
 <div align="center">
+Hi, I'm Clementine Puji Utami
+Product designer, program-minded builder, and creative technologist based in Indonesia.
 
-# 🌿 clem design & tech
+I design and build digital products that are clear, useful, and a little memorable.
 
-*a small studio for intentional digital things*
 
-`✦ ─────────────────────────────────────────── ✦`
+<a href="https://www.linkedin.com/in/pjutami/"><img src="https://img.shields.io/badge/LinkedIn-pjutami-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/clementinepujiutami"><img src="https://img.shields.io/badge/GitHub-clementinepujiutami-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/clemnomadlife"><img src="https://img.shields.io/badge/Instagram-clemnomadlife-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
+About me
+I'm a multidisciplinary designer and builder who works across UI/UX design, web development, content systems, and automation.
 
-<br/>
+My background is in product design and program management, so I care about both sides of the work: the interface people touch, and the system that keeps it running. I like turning unclear ideas into structured experiences, whether that means a website, a CMS workflow, a Discord bot, or an AI-assisted tool.
 
-<div align="center">
+These days, I am especially interested in:
 
-> *"design with intention, build with clarity, deliver with impact."*
+building fast, thoughtful web apps with Next.js, TypeScript, and modern CMS tools
+designing interfaces that feel calm, practical, and human
+using AI carefully, with clear boundaries and real user value
+connecting creative direction with measurable product outcomes
+Toolkit
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma,notion,git,github,html,css,js,ts,react,nextjs,tailwind,nodejs,vercel,sanity,gcp" alt="Design and development toolkit" /> </p> <div align="center">
 
-</div>
 
-<br/>
 
-```
-   ✦  ────────────────────────────────────────  ✦
-       
-       hello, traveller. welcome to the workshop.
-       
-   ✦  ────────────────────────────────────────  ✦
-```
 
-<br/>
 
-## ʚ a little about me ɞ
 
-i'm **clementine** — a product designer turned multidisciplinary builder, working out of bali under [**clem design & tech**](https://www.instagram.com/clemnomadlife/).
 
-i blend **ui/ux**, **web development**, and **smart automation** to help small studios, hospitality brands, and quiet rebels build things that feel as good as they function. i've led design teams, shipped products to thousands of users, and now i work end-to-end — turning rough ideas into clean, conversion-driven digital products.
 
-```
-my approach
-├── design with intention      → every element earns its place
-├── build with clarity         → no clever, just useful
-└── deliver with impact        → the website is the system
-```
-
-<br/>
-
-## ✿ what's currently growing in the garden
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☾ &nbsp; tending now
-
-```yaml
-client_work:
-  - bali luxury management   # next.js + sanity + guesty
-  - liberta hotel group      # seo / aeo / geo strategy
-  - letti hair lab           # gosend api integration
-  - rouge studio bali        # framer + momence + xendit
-
-personal:
-  - zentio                   # wellness platform, slow build
-  - the grounded project     # permaculture + slow living
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ☼ &nbsp; learning out loud
-
-```yaml
-deep_dives:
-  - ai-overview optimization (aeo / geo)
-  - edge functions on vercel
-  - low-hallucination ai workflows
-  - ecological theology + design ethics
-
-reading:
-  - laudato si'
-  - david whyte
-  - the soil + the soul
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ❀ the toolkit (or: things i reach for at 2am)
-
-<div align="center">
-
-**˗ˏˋ design & systems ˎˊ˗**
-
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=d4c5a9)
-![Framer](https://img.shields.io/badge/Framer-1a1a1a?style=for-the-badge&logo=framer&logoColor=d4c5a9)
-![Adobe](https://img.shields.io/badge/Adobe_Suite-1a1a1a?style=for-the-badge&logo=adobe&logoColor=d4c5a9)
-
-**˗ˏˋ build ˎˊ˗**
-
-![Next.js](https://img.shields.io/badge/Next.js-2d1b3d?style=for-the-badge&logo=next.js&logoColor=f5f1ea)
-![React](https://img.shields.io/badge/React-2d1b3d?style=for-the-badge&logo=react&logoColor=f5f1ea)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d1b3d?style=for-the-badge&logo=typescript&logoColor=f5f1ea)
-![Tailwind](https://img.shields.io/badge/Tailwind-2d1b3d?style=for-the-badge&logo=tailwindcss&logoColor=f5f1ea)
-![WordPress](https://img.shields.io/badge/WordPress_+_Bricks-2d1b3d?style=for-the-badge&logo=wordpress&logoColor=f5f1ea)
-![Webflow](https://img.shields.io/badge/Webflow-2d1b3d?style=for-the-badge&logo=webflow&logoColor=f5f1ea)
-
-**˗ˏˋ content & data ˎˊ˗**
-
-![Sanity](https://img.shields.io/badge/Sanity.io-3d2b1f?style=for-the-badge&logo=sanity&logoColor=d4c5a9)
-![Convex](https://img.shields.io/badge/Convex-3d2b1f?style=for-the-badge&logoColor=d4c5a9)
-![Vercel](https://img.shields.io/badge/Vercel-3d2b1f?style=for-the-badge&logo=vercel&logoColor=d4c5a9)
-![Resend](https://img.shields.io/badge/Resend-3d2b1f?style=for-the-badge&logo=resend&logoColor=d4c5a9)
-
-**˗ˏˋ automation & ai ˎˊ˗**
-
-![Zapier](https://img.shields.io/badge/Zapier-4a2c2a?style=for-the-badge&logo=zapier&logoColor=f5f1ea)
-![Make](https://img.shields.io/badge/Make-4a2c2a?style=for-the-badge&logoColor=f5f1ea)
-![OpenAI](https://img.shields.io/badge/OpenAI-4a2c2a?style=for-the-badge&logo=openai&logoColor=f5f1ea)
-![Groq](https://img.shields.io/badge/Groq-4a2c2a?style=for-the-badge&logoColor=f5f1ea)
-![Cursor](https://img.shields.io/badge/Cursor-4a2c2a?style=for-the-badge&logoColor=f5f1ea)
 
 </div>
+Projects from my repositories
+Project	What it is	Stack / focus
+Dream Thread	A voice-first dream capture app built for quickly saving vivid dreams before they fade. The product direction focuses on mood reflection instead of over-explaining meaning.	TypeScript, AI-assisted product experience
+News Portal	A modern news application for global conflict and humanitarian coverage, with article pages, author profiles, tagging, and SEO-focused structure.	Next.js, TypeScript, Sanity, Tailwind CSS
+Conflict Wire Studio	A Sanity CMS studio for managing editorial content, including articles, magazine issues, authors, regions, tags, and site settings.	Sanity CMS, TypeScript, editorial systems
+MysticalBot	A Discord bot for entertainment and personal reflection, with tarot readings, astrology tools, moon phases, affirmations, journaling, and meditation features.	TypeScript, Discord bot development
+ChromaBot	A Discord bot with practical server utilities such as ping, welcome messages, server info, user info, and help commands.	JavaScript, Discord.js
+Some of my work is in private repositories, including client projects, internal tools, and in-progress product experiments.
 
-<br/>
+How I work
+research the problem
+shape the flow
+design the interface
+build the system
+test the experience
+improve what real use reveals
+I like work that has texture: useful enough to solve a real problem, polished enough to feel cared for, and flexible enough to keep improving.
 
-## ✦ selected work — a small showcase
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🌿 &nbsp; bali luxury management**
-
-a quiet-luxury villa platform.
-
-`next.js` · `sanity` · `guesty api`  
-`seo / aeo / geo`
-
-[→ baliluxurymanagement.com](https://baliluxurymanagement.com)
-
-</td>
-<td width="33%" valign="top">
-
-**🌸 &nbsp; letti hair lab**
-
-boutique salon in canggu, soon with gosend shipping.
-
-`wordpress` · `gosend api`  
-`figma redesign`
-
-[→ lettihairlab.com](https://lettihairlab.com)
-
-</td>
-<td width="33%" valign="top">
-
-**🌙 &nbsp; rouge studio bali**
-
-pilates + red light, single-page poetry.
-
-`framer` · `momence` · `manychat`  
-`xendit` · `meta business`
-
-[→ rougestudiobali.com](https://rougestudiobali.com)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**🏜️ &nbsp; rymal dubai**
-
-luxury perfume, desert-coded storytelling.
-
-`next.js` · `sanity headless cms`
-
-[→ rymaldubai.com](https://rymaldubai.com)
-
-</td>
-<td width="33%" valign="top">
-
-**🐋 &nbsp; red whale dive center**
-
-komodo dive trips, mobile-first.
-
-`wordpress` · `seo`
-
-[→ redwhaledc.com](https://redwhaledc.com)
-
-</td>
-<td width="33%" valign="top">
-
-**🌷 &nbsp; zentio** *(in progress)*
-
-a quiet platform for re-navigating life.
-
-`next.js 15` · `convex` · `resend`
-
-`coming soon`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ☘ services i offer through clem design & tech
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ✿  ui/ux design       — research, wireframes, systems      │
-│   ✿  web development    — next.js, wordpress, framer         │
-│   ✿  tech support       — maintenance, hosting, debugging    │
-│   ✿  automation         — zapier, make, custom gpt flows     │
-│   ✿  ai-seo (aeo/geo)   — content that gets cited by llms    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## ❦ the github garden
+GitHub snapshot
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=clementinepujiutami&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=ffffff" alt="Clementine's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementinepujiutami&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" alt="Most used languages" /> </div>
+Let's connect
+If you are building something that needs thoughtful design, a clearer product flow, or a more reliable digital system, I would be happy to talk.
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clementinepujiutami&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4c5a9&text_color=f5f1ea&icon_color=d4c5a9&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementinepujiutami&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4c5a9&text_color=f5f1ea&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clementinepujiutami&hide_border=true&background=0a0a0a&stroke=2d1b3d&ring=d4c5a9&fire=d4c5a9&currStreakLabel=d4c5a9&sideLabels=f5f1ea&currStreakNum=f5f1ea&sideNums=f5f1ea&dates=d4c5a9" />
-
-</div>
-
-<br/>
-
-## ☾ a few quiet beliefs
-
-```
-✧  every interface is an invitation. write good invitations.
-
-✧  the best automation is the one no one notices —
-   it just removes friction and gives time back.
-
-✧  design that doesn't load on a bali wifi connection
-   isn't really design. it's decoration.
-
-✧  ai is a tool, not an oracle. low hallucination,
-   high transparency, human in the loop.
-
-✧  a website is a system. a system is a garden.
-   gardens need tending.
-```
-
-<br/>
-
-## ⋆｡˚ ⋆ ୨୧ ⋆ ˚｡⋆ &nbsp; let's collaborate &nbsp; ⋆｡˚ ⋆ ୨୧ ⋆ ˚｡⋆
-
-<div align="center">
-
-if you're building something that needs to feel as good as it functions — say hi.
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/@clemnomadlife-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d4c5a9)](https://instagram.com/clemnomadlife)
-[![LinkedIn](https://img.shields.io/badge/in/pjutami-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d4c5a9)](https://linkedin.com/in/pjutami)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=safari&logoColor=d4c5a9)](https://clemnomadlife.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-        🌱
-       /
-      ╱
-     ╱  built slowly, with care, in bali
-    ╱   © clem design & tech
-   ╱
-  ╱
- ╱
-═══════════════════════════════════════════════
-```
-
-</div>
-
-<div align="center">
-
-`✦ ─────────────────────────────────────────── ✦`
-
-*built slowly, with care, in bali · © clem design & tech* 🌱
+<a href="https://www.linkedin.com/in/pjutami/"><img src="https://img.shields.io/badge/LinkedIn-pjutami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/clemnomadlife"><img src="https://img.shields.io/badge/Instagram-clemnomadlife-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
