@@ -22,6 +22,8 @@ I turn unclear ideas into structured digital experiences — websites, CMS workf
 | Acculus | AI-powered invoice processing platform with auto-extraction and validation | React, TypeScript, Supabase |
 | Client Workpaper Optimizer | Audit management system for accounting firms — workpaper tracking and team collaboration | React, TypeScript |
 | Casa Letora | Content-driven website with editorial and motion design | Next.js, Sanity, Motion |
+| Red Whale Dive Center | Booking and tour site for a dive center & Komodo tours operator in Labuan Bajo | WordPress |
+| Letti Hair Lab | Website for a hair studio — services, gallery, and booking | WordPress |
 
 Most of these live in private repos. Some client work, some in-progress — reach out if you want to know more.
 
