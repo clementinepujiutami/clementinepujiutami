@@ -1,7 +1,7 @@
-# Clementine Puji Utami
+# Hi, I'm Clementine ✦
 
-Product designer & builder based in Indonesia.  
-I turn unclear ideas into structured digital experiences — websites, CMS workflows, bots, and AI-assisted tools.
+Designer, builder, and the person who insists the spacing *does* matter.  
+Based in Indonesia — turning fuzzy ideas into digital things that actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pjutami-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjutami/)
 [![Instagram](https://img.shields.io/badge/Instagram-clemnomadlife-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/clemnomadlife)
@@ -9,23 +9,24 @@ I turn unclear ideas into structured digital experiences — websites, CMS workf
 
 ---
 
-**Currently into:** Next.js · TypeScript · AI tools · Sanity CMS · design systems
+**Currently obsessing over:** Next.js · TypeScript · AI tools · Sanity CMS · design systems
 
 ---
 
-## Projects
+## Things I've built ✦
 
-| Project | What it is | Stack |
-|---------|------------|-------|
-| Bali Luxury Management | Property management platform for luxury villa rentals — bookings, guest experience, and content | Next.js, Sanity, AI SDK, TypeScript |
-| Rouge Studio | Website for a creative studio with Google services integration | Next.js, Google APIs |
-| Acculus | AI-powered invoice processing platform with auto-extraction and validation | React, TypeScript, Supabase |
-| Client Workpaper Optimizer | Audit management system for accounting firms — workpaper tracking and team collaboration | React, TypeScript |
-| Casa Letora | Content-driven website with editorial and motion design | Next.js, Sanity, Motion |
-| Red Whale Dive Center | Booking and tour site for a dive center & Komodo tours operator in Labuan Bajo | WordPress |
-| Letti Hair Lab | Website for a hair studio — services, gallery, and booking | WordPress |
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [Bali Luxury Management](https://github.com/clementinepujiutami) | Villa rental platform where luxury meets logistics — bookings, guest experience, and AI-assisted content | Next.js, Sanity, AI SDK, TypeScript |
+| [Red Whale Dive Center](https://redwhaledc.com) | Dive center & Komodo tours site for an adventure crew in Labuan Bajo | WordPress |
+| Rouge Studio | Creative studio website with Google services woven in | Next.js, Google APIs |
+| Acculus | AI that reads your invoices so you don't have to | React, TypeScript, Supabase |
+| Client Workpaper Optimizer | Audit management for accounting firms — less chaos, more clarity | React, TypeScript |
+| Casa Letora | Editorial website with motion and a lot of care about typography | Next.js, Sanity, Motion |
+| Letti Hair Lab | Website for a hair studio that takes its craft seriously | WordPress |
 
-Most of these live in private repos. Some client work, some in-progress — reach out if you want to know more.
+Most of these live quietly in private repos. Client work, experiments, and a few things I'm not ready to show yet.  
+Curious about something specific? Just ask.
 
 ---
 
@@ -35,4 +36,4 @@ Most of these live in private repos. Some client work, some in-progress — reac
 
 ---
 
-*Building something that needs thoughtful design or a clearer product flow? [Let's talk.](https://www.linkedin.com/in/pjutami/)*
+*Got a project that needs thoughtful design, a sharper product flow, or just someone who'll care about it as much as you do? [Let's talk.](https://www.linkedin.com/in/pjutami/)*
