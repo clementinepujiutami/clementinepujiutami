@@ -17,19 +17,19 @@ I turn unclear ideas into structured digital experiences — websites, CMS workf
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| Dream Thread | Voice-first dream capture app focused on mood reflection | TypeScript, AI-assisted UX |
-| News Portal | Global conflict news app with articles, author profiles, and SEO | Next.js, TypeScript, Sanity, Tailwind |
-| Conflict Wire Studio | Sanity CMS studio for managing editorial content | Sanity CMS, TypeScript |
-| MysticalBot | Discord bot with tarot, astrology, journaling, and meditation features | TypeScript, Discord.js |
-| ChromaBot | Discord bot with server utilities — ping, welcome, user info | JavaScript, Discord.js |
+| Bali Luxury Management | Property management platform for luxury villa rentals — bookings, guest experience, and content | Next.js, Sanity, AI SDK, TypeScript |
+| Rouge Studio | Website for a creative studio with Google services integration | Next.js, Google APIs |
+| Acculus | AI-powered invoice processing platform with auto-extraction and validation | React, TypeScript, Supabase |
+| Client Workpaper Optimizer | Audit management system for accounting firms — workpaper tracking and team collaboration | React, TypeScript |
+| Casa Letora | Content-driven website with editorial and motion design | Next.js, Sanity, Motion |
 
-Some work lives in private repos: client projects, internal tools, and experiments in progress.
+Most of these live in private repos. Some client work, some in-progress — reach out if you want to know more.
 
 ---
 
 ## GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clementinepujiutami&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clementinepujiutami&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=0f766e&bg_color=00000000)
 
 ---
 
