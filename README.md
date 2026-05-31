@@ -30,6 +30,7 @@ Based in Indonesia — turning fuzzy ideas into digital things that actually wor
 | Client Workpaper Optimizer | Audit management for accounting firms — less chaos, more clarity | React, TypeScript |
 | Casa Letora | Editorial website with motion and a lot of care about typography | Next.js, Sanity, Motion |
 | Letti Hair Lab | Website for a hair studio that takes its craft seriously | WordPress |
+| cathCLI | The Holy Bible & Catholic prayers, blessed straight into your terminal. | Typescript, HTML |
 
 Most of these live quietly in private repos. Client work, experiments, and a few things I'm not ready to show yet.  
 Curious about something specific? Just ask.
