@@ -5,6 +5,7 @@ Based in Indonesia — turning fuzzy ideas into digital things that actually wor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pjutami-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjutami/)
 [![Instagram](https://img.shields.io/badge/Instagram-clemnomadlife-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/clemnomadlife)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clemdesigntech.com-fd8326?style=flat&logo=safari&logoColor=white)](https://clemdesigntech.com)
 [![GitHub](https://img.shields.io/badge/GitHub-clementinepujiutami-100000?style=flat&logo=github&logoColor=white)](https://github.com/clementinepujiutami)
 
 ---
@@ -23,16 +24,20 @@ Based in Indonesia — turning fuzzy ideas into digital things that actually wor
 
 | Project | What it is | Built with |
 |---------|------------|------------|
-| [Bali Luxury Management](https://github.com/clementinepujiutami) | Villa rental platform where luxury meets logistics — bookings, guest experience, and AI-assisted content | Next.js, Sanity, AI SDK, TypeScript |
+| Bali Luxury Management | Villa rental platform where luxury meets logistics — bookings, guest experience, and AI-assisted content | Next.js, Sanity, AI SDK, TypeScript |
 | [Red Whale Dive Center](https://redwhaledc.com) | Dive center & Komodo tours site for an adventure crew in Labuan Bajo | WordPress |
 | Rouge Studio | Creative studio website with Google services woven in | Next.js, Google APIs |
 | Acculus | AI that reads your invoices so you don't have to | React, TypeScript, Supabase |
 | Client Workpaper Optimizer | Audit management for accounting firms — less chaos, more clarity | React, TypeScript |
+| Jiwa Garden | Website for a community permaculture garden in Canggu: café, tours, workshops, markets and compost, with watercolor produce icons | Next.js, Tailwind |
+| Zentio | Email-first behavioral feedback system with four dimensions and six archetypes | Next.js, TypeScript |
+| Market Organizer | Planning dashboard for pop-up market organizers: markets, vendors, venues, budget and marketing | Next.js, Supabase |
+| Hidden Christian Japan | A pilgrimage map and guidebook for Hidden Christianity in Japan | HTML, CSS, JavaScript |
 | Casa Letora | Editorial website with motion and a lot of care about typography | Next.js, Sanity, Motion |
 | Letti Hair Lab | Website for a hair studio that takes its craft seriously | WordPress |
-| cathCLI | The Holy Bible & Catholic prayers, blessed straight into your terminal. | Typescript, HTML |
+| [cathCLI](https://github.com/clementinepujiutami/cathCLI) | The Holy Bible & Catholic prayers, blessed straight into your terminal. | TypeScript, HTML |
 
-Most of these live quietly in private repos. Client work, experiments, and a few things I'm not ready to show yet.  
+Portfolio and case studies live at [clemdesigntech.com](https://clemdesigntech.com). Most of these live quietly in private repos. Client work, experiments, and a few things I'm not ready to show yet.  
 Curious about something specific? Just ask.
 
 ---
