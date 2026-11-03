@@ -4,7 +4,7 @@ Designer, builder, and the person who insists the spacing *does* matter.
 Based in Indonesia — turning fuzzy ideas into digital things that actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pjutami-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjutami/)
-[![Instagram](https://img.shields.io/badge/Instagram-clemnomadlife-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/clemnomadlife)
+[![Instagram](https://img.shields.io/badge/Instagram-clemdesigntech-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/clemdesigntech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-clemdesigntech.com-fd8326?style=flat&logo=safari&logoColor=white)](https://clemdesigntech.com)
 [![GitHub](https://img.shields.io/badge/GitHub-clementinepujiutami-100000?style=flat&logo=github&logoColor=white)](https://github.com/clementinepujiutami)
 
